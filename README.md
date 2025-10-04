@@ -1,8 +1,8 @@
-# 🔴 ruby-playground
+# ruby-playground
 
 A collection of Ruby rewrites, mostly based on **EventMachine** and inspired by the Pomelo framework for real-time, scalable server architecture.
 
-## 📂 Projects
+## Projects
 
 - [**citrus**](./citrus)  
   Core framework inspired by [Pomelo](https://github.com/NetEase/pomelo) 
@@ -16,7 +16,7 @@ A collection of Ruby rewrites, mostly based on **EventMachine** and inspired by 
 - [**citrus-admin**](./citrus-admin)  
   Admin and management interface inspired by [pomelo-admin](https://github.com/NetEase/pomelo-admin).
 
-## 🎯 Purpose
+## Purpose
 
 These projects serve as both **historical record** of my learning path and as **references** for event-driven server programming in Ruby.
 
